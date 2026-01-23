@@ -1,8 +1,8 @@
-## Welcome
+## Bem-vindo
 
 <details><summary>Sobre Mim</summary>
 
-Meu nome é Jonatas, tenho 18 anos, sou estudante do ensino médio.
+Meu nome é Jonatas, tenho 18 anos, sou estudante do ensino médio. Sou Designer 3D, e ás vezes programador.
 
 </details>
 
@@ -13,17 +13,16 @@ Meu nome é Jonatas, tenho 18 anos, sou estudante do ensino médio.
 - Prestativo
 
 ### Linguagens
-- HTML
+- HTML/CSS
 - Java Script
-- C Sharp
-- C
+- C#
+- C/C++
+- 
   
 ### Ferramentas
 
   ###### 3D Design
 - Blender
-- 3DS Max
-- Maya
 - SketchUp
 - ZBrush
 - Adobe Substance Painter
