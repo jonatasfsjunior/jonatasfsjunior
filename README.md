@@ -23,12 +23,14 @@ Meu nome é Jonatas, tenho 18 anos, sou estudante do ensino médio.
   ###### 3D Design
 - Blender
 - 3DS Max
+- Maya
 - SketchUp
 - ZBrush
 - Adobe Substance Painter
 ###### 2D Design
 - Adobe Photoshop
 - Adobe Illustrator
+- Affinity Studio
 ###### Game Creation
 - Unity
 - Unreal
@@ -37,6 +39,5 @@ Meu nome é Jonatas, tenho 18 anos, sou estudante do ensino médio.
 
 <details><summary>Social</summary>
 
-Discord: `@johntelle`
 
 </details>
