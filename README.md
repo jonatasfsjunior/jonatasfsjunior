@@ -17,7 +17,6 @@ Meu nome é Jonatas, tenho 18 anos, sou estudante do ensino médio. Sou Designer
 - Java Script
 - C#
 - C/C++
-- 
   
 ### Ferramentas
 
@@ -38,5 +37,7 @@ Meu nome é Jonatas, tenho 18 anos, sou estudante do ensino médio. Sou Designer
 
 <details><summary>Social</summary>
 
+Discord: jonatasfsjunior
+LinkedIn: [jonatasfsjunior](https://www.linkedin.com/in/jonatasfsjunior/overlay/contact-info/)
 
 </details>
